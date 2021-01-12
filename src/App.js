@@ -1,7 +1,8 @@
 import React from 'react'
+import KineticLoader from './components/KineticLoader'
 
 const App = () => {
-  return <div>React Boilerplate</div>
+  return <KineticLoader />
 }
 
 export default App
